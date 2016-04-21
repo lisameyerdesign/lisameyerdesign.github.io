@@ -1,7 +1,13 @@
-body {
-	background-color: white;
+
+h1 {
+  text-align: center;
+  color: #fff; 
 }
 
-h1, p {
-	color: gray;
+body {
+  text-align: center;
+  background: url("/Volumes/NIXIE/lisameyerdesign.github.io/unit_3/images/openroad.jpg");
+  background-size: cover;
+  color: #fff;
+  font-family: Helvetica;
 }

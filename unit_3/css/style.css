@@ -1,0 +1,26 @@
+h1 {
+	font-family: Helvetica;
+	font-size: 40px;
+	color: black;
+	text-align: center;
+
+}
+
+body {
+	text-align: center;
+  	background-image: url("/Volumes/NIXIE/lisameyerdesign.github.io/unit_3/images/openroad.jpg");
+  	background-size: cover;
+   	color: black;
+  	font-family: Times;
+
+}
+
+#slogan {
+	font-style: italic;
+	font-size: 25px;
+	font-family: Helvetica;
+}
+
+p {
+	font-size: 20px;
+}
