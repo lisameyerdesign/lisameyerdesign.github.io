@@ -1,0 +1,36 @@
+
+@import url(https://fonts.googleapis.com/css?family=Fjalla+One);
+@import url(https://fonts.googleapis.com/css?family=Adamina);
+
+h1 {
+	font-family: 'Fjalla One', sans-serif;
+	font-size: 40px;
+	color: black;
+	text-align: center;
+	letter-spacing: 0.03em;
+
+}
+
+body {
+	text-align: center;
+  	background-image: url("/Volumes/NIXIE/lisameyerdesign.github.io/unit_3/images/openroad.jpg");
+  	background-size: cover;
+   	color: black;
+
+}
+
+#slogan {
+	font-size: 27px;
+	font-family: 'Adamina', serif;
+	color: black;
+	letter-spacing: 0.01em;
+}
+
+p {
+	font-family: 'Adamina', serif;
+	font-size: 16px;
+	line-height: 1.5em;
+  	margin: 2em;
+  	color: white;
+  	letter-spacing: 0.02em;
+}
